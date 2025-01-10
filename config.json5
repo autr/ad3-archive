@@ -1,0 +1,26 @@
+{
+	routes: {
+		'/': {
+			'+page.svelte': '+DemoV2.svelte'
+		},
+		'/debug': {
+			'+page.svelte': '+DemoDebug.svelte'
+		},
+		'/icons': {
+			'+page.svelte': '+Icons.svelte'
+		},
+		'/plugs': {
+			'+page.svelte': '+Plugs.svelte'
+		},
+		'/performance': {
+			'+page.svelte': '+Performance.svelte'
+		},
+		'/raw': {
+			'+page.svelte': '+Raw.svelte'
+		},
+		'/autogenerator': {
+			'+page.svelte': '/_autogen/+Autogenerator.svelte',
+			'+server.js': '/_autogen/+Autogenerator.js'
+		}
+	}
+}

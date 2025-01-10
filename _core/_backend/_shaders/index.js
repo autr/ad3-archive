@@ -1,0 +1,1 @@
+export { CreateMultiColorMaterial } from './multicolor.code.js'

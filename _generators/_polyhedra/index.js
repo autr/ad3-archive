@@ -1,0 +1,6 @@
+export { default as Polyhedra} from './_Polyhedra.svelte'
+// export { default as Dual } from './_Dual.svelte'
+export * as POLYHEDRA from './defs.js'
+export * from './defs.js'
+// export { MaxwellsRigidityCriterion } from './_generator/lib.postprocess.js'
+export * from './lib.barycentric.js'

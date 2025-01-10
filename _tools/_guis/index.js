@@ -1,0 +1,1 @@
+export { default as XYZ } from './_XYZ.svelte'
