@@ -1,0 +1,11 @@
+{
+	'/': {
+		'+page.svelte': '+Overview.svelte'
+	},
+	'/physics': {
+		'+page.svelte': '+DemoPhysics.svelte'
+	},
+	'/spring': {
+		'+page.svelte': '+DemoSpring.svelte'
+	}
+}

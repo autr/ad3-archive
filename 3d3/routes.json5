@@ -1,0 +1,17 @@
+{
+	// '/': {
+	// 	'+page.svelte': '+Overview.svelte'
+	// }
+	// '/physics': {
+	// 	'+page.svelte': '+DemoPhysics.svelte'
+	// },
+	// '/spring': {
+	// 	'+page.svelte': '+DemoSpring.svelte'
+	// },
+	// '/svelte5': {
+	// 	'+page.svelte': '_svelte5/+Demo.svelte'
+	// }
+	'/': {
+		'+page.svelte': '+SpeedTest.svelte'
+	}
+}

@@ -1,0 +1,5 @@
+export { default as CylinderFromPoints } from './_CylinderFromPoints.svelte'
+export { default as Ground } from './_Ground.svelte'
+export { default as Sphere } from './_Sphere.svelte'
+export { default as UnindexedMesh } from './_UnindexedMesh.svelte'
+export { default as Box } from './_Box.svelte'

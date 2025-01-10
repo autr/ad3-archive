@@ -1,0 +1,11 @@
+{
+	'/': {
+		'+page.svelte': '+Overview.svelte'
+	},
+	'/explorer': {
+		'+page.svelte': '+Explorer.svelte'
+	},
+	'/relations': {
+		'+page.svelte': '+Relations.svelte'
+	}
+}
